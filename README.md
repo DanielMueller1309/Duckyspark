@@ -1,25 +1,25 @@
 # Duckyspark v.0.4.1
 
-Translator from USB-Rubber-Ducky payloads (Ducky script) to a Digispark code.
+Übersetzer von USB-Rubber-Ducky-Nutzdaten (Ducky-Skript) in einen Digispark-Code.
 
-### DISCLAIMER:
+### HAFTUNGSAUSSCHLUSS:
 
-Usage of this program is only allowed within boundaries of law. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+Die Nutzung dieses Programms ist nur innerhalb gesetzlicher Grenzen gestattet. Der Entwickler übernehmimt keine Haftung und ist nicht verantwortlich für Missbrauch oder Schäden, die durch dieses Programm verursacht werden.
 
-# Usage:
+# Verwendung:
 
-    python3 Duckyspark_translator.py [payload.txt] [output_file]
+    python3 Duckyspark_translator.py [payload.txt] [Ausgabedatei]
 
-### or
+### oder
 
     python3 Duckyspark_translator.py [payload.txt]
-###### in this case the translated payload will be saved in the file "digipayload.ino"
+###### In diesem Fall wird das Übersetzte Script in der Datei "digipayload.ino" gespeichert.
 
 
-Ducky payloads you can find here:  https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
+Ducky Payloads finden Sie hier: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
 
-or here:   https://github.com/CedArctic/DigiSpark-Scripts
+oder hier: https://github.com/CedArctic/DigiSpark-Scripts
 
-Or, you can simply write your own payloads using Ducky script
+Oder Sie können einfach Ihre eigenen Nutzdaten mit dem Ducky-Skript schreiben
 
-Ducky script syntax:                https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
+Ducky-Skriptsyntax: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
